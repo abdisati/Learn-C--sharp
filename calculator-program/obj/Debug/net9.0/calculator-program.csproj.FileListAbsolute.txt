@@ -1,0 +1,14 @@
+C:\Learn C# sharp\calculator-program\bin\Debug\net9.0\calculator-program.exe
+C:\Learn C# sharp\calculator-program\bin\Debug\net9.0\calculator-program.deps.json
+C:\Learn C# sharp\calculator-program\bin\Debug\net9.0\calculator-program.runtimeconfig.json
+C:\Learn C# sharp\calculator-program\bin\Debug\net9.0\calculator-program.dll
+C:\Learn C# sharp\calculator-program\bin\Debug\net9.0\calculator-program.pdb
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.AssemblyInfoInputs.cache
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.AssemblyInfo.cs
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.csproj.CoreCompileInputs.cache
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.dll
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\refint\calculator-program.dll
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.pdb
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\calculator-program.genruntimeconfig.cache
+C:\Learn C# sharp\calculator-program\obj\Debug\net9.0\ref\calculator-program.dll

@@ -1,0 +1,14 @@
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.AssemblyInfoInputs.cache
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.AssemblyInfo.cs
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.csproj.CoreCompileInputs.cache
+C:\Learn C# sharp\NumberGuessingGame2\bin\Debug\net9.0\NumberGuessingGame2.exe
+C:\Learn C# sharp\NumberGuessingGame2\bin\Debug\net9.0\NumberGuessingGame2.deps.json
+C:\Learn C# sharp\NumberGuessingGame2\bin\Debug\net9.0\NumberGuessingGame2.runtimeconfig.json
+C:\Learn C# sharp\NumberGuessingGame2\bin\Debug\net9.0\NumberGuessingGame2.dll
+C:\Learn C# sharp\NumberGuessingGame2\bin\Debug\net9.0\NumberGuessingGame2.pdb
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.dll
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\refint\NumberGuessingGame2.dll
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.pdb
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\NumberGuessingGame2.genruntimeconfig.cache
+C:\Learn C# sharp\NumberGuessingGame2\obj\Debug\net9.0\ref\NumberGuessingGame2.dll

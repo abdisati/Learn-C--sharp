@@ -1,0 +1,14 @@
+C:\Learn C# sharp\rock-paper-scissor\bin\Debug\net9.0\rock-paper-scissor.exe
+C:\Learn C# sharp\rock-paper-scissor\bin\Debug\net9.0\rock-paper-scissor.deps.json
+C:\Learn C# sharp\rock-paper-scissor\bin\Debug\net9.0\rock-paper-scissor.runtimeconfig.json
+C:\Learn C# sharp\rock-paper-scissor\bin\Debug\net9.0\rock-paper-scissor.dll
+C:\Learn C# sharp\rock-paper-scissor\bin\Debug\net9.0\rock-paper-scissor.pdb
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.AssemblyInfoInputs.cache
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.AssemblyInfo.cs
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.csproj.CoreCompileInputs.cache
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.dll
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\refint\rock-paper-scissor.dll
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.pdb
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\rock-paper-scissor.genruntimeconfig.cache
+C:\Learn C# sharp\rock-paper-scissor\obj\Debug\net9.0\ref\rock-paper-scissor.dll

@@ -1,0 +1,14 @@
+C:\Learn C# sharp\SnakeGame2\bin\Debug\net9.0\SnakeGame2.exe
+C:\Learn C# sharp\SnakeGame2\bin\Debug\net9.0\SnakeGame2.deps.json
+C:\Learn C# sharp\SnakeGame2\bin\Debug\net9.0\SnakeGame2.runtimeconfig.json
+C:\Learn C# sharp\SnakeGame2\bin\Debug\net9.0\SnakeGame2.dll
+C:\Learn C# sharp\SnakeGame2\bin\Debug\net9.0\SnakeGame2.pdb
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.AssemblyInfoInputs.cache
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.AssemblyInfo.cs
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.csproj.CoreCompileInputs.cache
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.dll
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\refint\SnakeGame2.dll
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.pdb
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\SnakeGame2.genruntimeconfig.cache
+C:\Learn C# sharp\SnakeGame2\obj\Debug\net9.0\ref\SnakeGame2.dll

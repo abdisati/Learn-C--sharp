@@ -1,0 +1,14 @@
+C:\Learn C# sharp\my-console-app\bin\Debug\net8.0\my-console-app.exe
+C:\Learn C# sharp\my-console-app\bin\Debug\net8.0\my-console-app.deps.json
+C:\Learn C# sharp\my-console-app\bin\Debug\net8.0\my-console-app.runtimeconfig.json
+C:\Learn C# sharp\my-console-app\bin\Debug\net8.0\my-console-app.dll
+C:\Learn C# sharp\my-console-app\bin\Debug\net8.0\my-console-app.pdb
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.AssemblyInfoInputs.cache
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.AssemblyInfo.cs
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.csproj.CoreCompileInputs.cache
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.dll
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\refint\my-console-app.dll
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.pdb
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\my-console-app.genruntimeconfig.cache
+C:\Learn C# sharp\my-console-app\obj\Debug\net8.0\ref\my-console-app.dll
